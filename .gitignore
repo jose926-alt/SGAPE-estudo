@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+config_quiosque.ini
+config_administrativo.ini
+dist/
+build/
